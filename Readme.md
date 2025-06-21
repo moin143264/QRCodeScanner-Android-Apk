@@ -26,6 +26,5 @@ This app allows scanning of QR codes with device camera access — perfect for s
 🔄 Toggling flashlight and handling scan state cleanly
 
 📲 App Type: Android (Built using Expo)
-📎 GitHub Repo: https://lnkd.in/example-qr
 
 hashtag#ReactNative hashtag#Expo hashtag#QRCodeScanner hashtag#JavaScript hashtag#CameraApp hashtag#MobileDevelopment hashtag#FrontendDev hashtag#AndroidDev hashtag#TechProjects hashtag#OpenSource
