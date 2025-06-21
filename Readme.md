@@ -38,5 +38,5 @@ A simple and responsive QR Code Scanner app built using **React Native** with **
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/moin143264/qrscanner-android-app.git
+git clone https://github.com/moin143264/QRCodeScanner-Android-Apk.git
 cd qrscanner-app
