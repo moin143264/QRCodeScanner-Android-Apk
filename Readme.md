@@ -1,30 +1,42 @@
-📷 QR Scanner App (Expo + Camera)
-🚀 Just finished building a QR Code Scanner App using Expo + expo-camera!
+# 📱 QR Code Scanner App (Expo)
 
-This app allows scanning of QR codes with device camera access — perfect for scanning URLs and displaying data.
+A simple and responsive QR Code Scanner app built using **React Native** with **Expo**. This app allows users to scan QR codes using their mobile device’s camera and display the decoded information with an option to open URLs directly.
 
-✨ Key Features:
+---
 
-📸 Real-time camera QR code scanning
+## 🚀 Features
 
-🔦 Flashlight toggle for low light conditions
+- 📷 Real-time QR code scanning using camera
+- 🔍 Detects and decodes QR codes instantly
+- 🌐 Auto-opens scanned URLs in a browser
+- ❌ Prevents duplicate scanning
+- 📱 Designed for Android (built as APK)
 
-🟥 Animated scan box with red scan line
+---
 
-🔗 Open scanned URLs or show plain text
+## 📦 Tech Stack
 
-🎯 Built using Expo Camera API (no need for barcode library)
+- **React Native** (with [Expo SDK](https://docs.expo.dev/))
+- `expo-camera` – for camera access
+- `expo-barcode-scanner` – for QR code scanning
+- `react-native-reanimated` – optional animations
+- `expo-linking` – to open scanned URLs
 
-🧠 What I Learned:
+---
 
-🎥 Using expo-camera for real-time scanning
+## 📲 APK Installation
 
-⚡ Handling asynchronous camera permissions
+1. Download the APK file from the [Releases](#) section (or manually build using Expo).
+2. Transfer the APK to your Android device.
+3. Enable "Install from Unknown Sources" in device settings.
+4. Install and launch the app!
 
-🎨 Animating components with React Native's Animated API
+---
 
-🔄 Toggling flashlight and handling scan state cleanly
+## 🛠️ How to Run Locally
 
-📲 App Type: Android (Built using Expo)
+### 1. Clone the repository
 
-hashtag#ReactNative hashtag#Expo hashtag#QRCodeScanner hashtag#JavaScript hashtag#CameraApp hashtag#MobileDevelopment hashtag#FrontendDev hashtag#AndroidDev hashtag#TechProjects hashtag#OpenSource
+```bash
+git clone https://github.com/yourusername/qrscanner-app.git
+cd qrscanner-app
